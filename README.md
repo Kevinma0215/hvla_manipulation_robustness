@@ -1,4 +1,4 @@
-# hvla_manipulation_robustness
+# Hvla_manipulation_robustness
 
 ## Motivation
 We consider Vision-Language-Action (VLA) models are designed to be more general and flexible, especially for serving humans in real-world environments. In everyday scenarios, robots do not always start from a fixed or standard initial position. The robot’s pose, orientation, and object placement may vary significantly. This motivates our project: we want to test whether a hierarchical VLA system can still perform well when the robot starts from different initial conditions.
