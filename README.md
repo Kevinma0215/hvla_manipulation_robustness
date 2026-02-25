@@ -14,7 +14,7 @@ We design two experimental scenarios to compare two VLA architectures under spat
 Scenario1 : Monolithic VLA
 We use the Depi policy as a representative monolithic VLA model.
 Scenario2 : Hierarchical VLA
-High-Level Policy:
+- High-Level Policy:
  We will use HAMSTER-style hierarchical VLM architecture ,specifically we will use Gemini Robotics API, and then evaluate zero-shot reasoning performance.
-Low-Level Policy: 
+- Low-Level Policy: 
 We will incorporate a model-based control module (e.g., MPC) for low-level execution..
